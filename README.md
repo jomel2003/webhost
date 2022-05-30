@@ -2,7 +2,7 @@
 
 Im **John Manuel Pagunsan** also known as **jomel2003**, and I'm a **19 years old**
 
-[![](https://img.shields.io/badge/[https://pagunsan2003.000webhostapp.com/)-blue)]
+[![](https://img.shields.io/badge/Website-https://pagunsan2003.000webhostapp.com/)-blue)]
 
 ### How to reach me: 
 [![](https://img.shields.io/badge/Gmail-pagunsanjohnmanuel@gmail.com-blue)]
