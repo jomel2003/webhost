@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Im **John Manuel Pagunsan** also known as **jomel2003**, and I'm a **19 years old**
+Im **John Manuel Pagunsan** also known as **jomel2003**
 
 [![](https://img.shields.io/badge/Website-https://pagunsan2003.000webhostapp.com-green)]
 
