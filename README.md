@@ -4,7 +4,7 @@ Im **John Manuel Pagunsan** also known as **jomel2003**, and I'm a **19 years ol
 
 [![](https://img.shields.io/badge/Website-https://pagunsan2003.000webhostapp.com-green)]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Manuel%C3%Pagunsan%2C+19+years+old;IT-Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Manuel%Pagunsan%2C+19+years+old;IT-Student;)](https://git.io/typing-svg)
 
 ### How to reach me: 
 [![](https://img.shields.io/badge/Gmail-pagunsanjohnmanuel@gmail.com-blue)]
